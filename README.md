@@ -4,6 +4,8 @@ This repo will be used in order for us to compare our code for each lab.
 
 The main branch will be used for latest files uploaded by the professor (I will add them to main manually since the professor doesn't have a github repo)
 
+**I assume we can use any conda environment (you can use comp0241) for now or you can create a new conda environment and do ```pip install -r requirements.txt``` that I'm going to add to the main branch as well**
+
 You can then either download the file direclty from moodle or use the following steps to download from here.
 
 Don't forget to push your code to your branch when you are done editing!!
